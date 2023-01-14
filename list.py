@@ -1,4 +1,4 @@
-'''Variables'''
+'''List'''
 
 names = ["peter", "Samuel", "Daniel"]
 age = 21
